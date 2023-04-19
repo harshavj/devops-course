@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git test file 1
+=======
+hello world
+
+>>>>>>> 6f1d6bda7d35ca3d3e22f96f2d1db24cc96ac982

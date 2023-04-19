@@ -1,0 +1,6 @@
+test filr for conflict
+<<<<<<< HEAD
+edit in master
+=======
+edits in feature
+>>>>>>> feature
